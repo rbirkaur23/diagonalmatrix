@@ -1,2 +1,2 @@
 # diagonalmatrix
-C program to print the diagonal elements
+C program to print the diagonal elements of the matrix.
